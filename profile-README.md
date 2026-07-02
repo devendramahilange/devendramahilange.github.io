@@ -14,9 +14,9 @@ JNU
 
 <p>
   <a href="mailto:devendramahilange@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4f46e5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/dm73.io"><img src="https://img.shields.io/badge/GitHub-yourusername-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="[https://github.com/dm73.io](https://devendramahilange.github.io/)"><img src="https://img.shields.io/badge/GitHub-yourusername-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/devendra-mahilange"><img src="https://img.shields.io/badge/LinkedIn-yourusername-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.dm73.io"><img src="https://img.shields.io/badge/Website-Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="[https://github.dm73.io](https://devendramahilange.github.io/)"><img src="https://img.shields.io/badge/Website-Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
 </div>
@@ -28,7 +28,7 @@ JNU
 Devendra is a Resecher at Jawaharlal Nehru University in New Delhi, India. His research area is Natural Languuage Processing, Machine Learning and AI. His research has been published in the conferences like Elseiver.
 
 <p>
-  <a href="./Alex-Johnson-CV.pdf">
+  <a href="./resume.pdf">
     <img src="https://img.shields.io/badge/Download_CV-4f46e5?style=for-the-badge&logo=readme&logoColor=white" alt="Download CV" />
   </a>
 </p>
