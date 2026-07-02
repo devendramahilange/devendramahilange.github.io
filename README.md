@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.dm73.io\repository\assets\avatar" width="128" height="128" alt="Profile photo" />
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="128" height="128" alt="Profile photo" />
 
 # Devendra Mahilange
 
@@ -29,7 +29,7 @@ Devendra is a Resecher at Jawaharlal Nehru University in New Delhi, India. His r
 
 <p>
   <a href="./Alex-Johnson-CV.pdf">
-    <img src="[https:\\repository/assets/resume.pdf](https://img.shields.io/badge/Download_CV-4f46e5?style=for-the-badge&logo=readme&logoColor=white)" alt="Download CV" />
+    <img src="https://img.shields.io/badge/Download_CV-4f46e5?style=for-the-badge&logo=readme&logoColor=white" alt="Download CV" />
   </a>
 </p>
 
