@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="avatar.jpg" width="128" height="128" alt="Profile photo" />
+<img src="avatar.png" width="128" height="128" alt="Profile photo" />
 
 # Devendra Mahilange
 
