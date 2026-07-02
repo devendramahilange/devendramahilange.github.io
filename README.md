@@ -28,7 +28,7 @@ JNU
 Devendra is a Resecher at Jawaharlal Nehru University in New Delhi, India. His research area is Natural Languuage Processing, Machine Learning and AI. His research has been published in the conferences like Elseiver.
 
 <p>
-  <a href="./devendra.pdf">
+  <a href="./Alex-Johnson-CV.pdf">
     <img src="[https:\\repository/assets/resume.pdf](https://img.shields.io/badge/Download_CV-4f46e5?style=for-the-badge&logo=readme&logoColor=white)" alt="Download CV" />
   </a>
 </p>
